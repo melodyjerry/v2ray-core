@@ -1,3 +1,7 @@
+V2Ray是近几年兴起的科学上网技术，采用新的协议，因功能强大、能有效抵抗墙的干扰而广受好评。V2Ray官网是 https://v2ray.com，目前已无法直接打开。V2Ray安装部署及流量伪装请参考：V2Ray教程 和 V2Ray高级技巧：流量伪装。
+https://tlanyan.me/v2ray-clients-download/
+
+
 # Project V
 ![](https://github.com/v2fly/v2ray-core/workflows/Test/badge.svg)
 [![codecov.io][3]][4] [![GoDoc][5]][6] [![codebeat][7]][8] [![Downloads][9]][10]
